@@ -11,7 +11,7 @@ Demo : https://shopping-store-demo.netlify.app/ <br>
 *** In the demo the Paypal function is disabled. *** <br><br>
 The app is to show how item list and shopping cart work. Also it integrates with payment function (Paypal). <br>
 There is pure front-end project without back-end server and DB. <br>
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/front_page.PNG" alt="app design" width="700px"><br>
+<img src="./doc/front_page.PNG" alt="app design" width="700px"><br>
 
 <a name="technologies"></a>
 ## Technologies
@@ -23,23 +23,23 @@ There is pure front-end project without back-end server and DB. <br>
 
 <a name="design"></a>
 ## Design
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/design.png" alt="app design" width="700px">
+<img src="./doc/design.png" alt="app design" width="700px">
 
 <a name="features"></a>
 ## Features
 ### Add item to the cart
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/addItem.gif" alt="app design" width="700px"> <br>
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/additmD.gif" alt="app design" width="700px"> <br>
+<img src="./doc/addItem.gif" alt="app design" width="700px"> <br>
+<img src="./doc/additmD.gif" alt="app design" width="700px"> <br>
 
 ### Item animation
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/animation.gif" alt="app design" width="500px"> <br>
+<img src="./doc/animation.gif" alt="app design" width="500px"> <br>
 
 ### Image Gallary
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/detail.PNG" alt="app design" width="700px">
+<img src="./doc/detail.PNG" alt="app design" width="700px">
 
 ### Paypal redirect
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/shoppingCart.PNG" alt="app design" width="700px"> <br>
-<img src="https://github.com/SY-NG/OnlineShop-app/blob/master/doc/paypal.PNG" alt="app design" width="700px">
+<img src="./doc/shoppingCart.PNG" alt="app design" width="700px"> <br>
+<img src="./doc/paypal.PNG" alt="app design" width="700px">
 
 <a name="installation"></a>
 ## Installation
