@@ -9,8 +9,8 @@
 ## Project Information
 Demo : https://shopping-store-demo.netlify.app/ <br>
 *** In the demo the Paypal function is disabled. *** <br><br>
-The app is to show how item list and shopping cart work. Also it integrates with payment function (Paypal). <br>
-There is pure front-end project without back-end server and DB. <br>
+The app is to demonstrate how item list and shopping cart work. Also, it integrates with the payment function (Paypal). <br>
+There is a pure front-end project without back-end server and DB. <br>
 <img src="./doc/front_page.PNG" alt="app design" width="700px"><br>
 
 <a name="technologies"></a>
